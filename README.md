@@ -2,14 +2,14 @@
 AI Can Now Write ANY Report You Ask For — On Your Own Data
 by Bill SerGio, inventor of Zero-Training AI™
 
-• 100% FREE
-• No SQL
-• No report design required
-• No paying developers to build reports
-• 100% offline. No cloud required
-• No training
-• No monthly fees
-• Supports SQL Server, Oracle, PostgreSQL, MySQL, MariaDB, and SQLite
+- 100% FREE
+- No SQL
+- No report design required
+- No paying developers to build reports
+- 100% offline. No cloud required
+- No training
+- No monthly fees
+- Supports SQL Server, Oracle, PostgreSQL, MySQL, MariaDB, and SQLite
 
 Just give AiAnyReports® your database connection string and ask in plain English:
 “Write me an operations report and point out inefficiencies, bottlenecks, and unusual results.”
