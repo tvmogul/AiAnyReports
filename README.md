@@ -1,4 +1,4 @@
-# AiAnyReports
+# AiAnyReports®
 AI Can Now Write ANY Report You Ask For — On Your Own Data
 
 by Bill SerGio, inventor of Zero-Training AI™
