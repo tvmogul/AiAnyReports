@@ -30,3 +30,8 @@ Finance → “Break down expenses by vendor with tax-deductible highlights”
 AiAnyReports® creates just two files—a DLL and a compact data file—that you drop into your server or mobile app. Instantly, you get every significant report on your data, plus any report you request in plain English. Reports are rendered with the latest jQuery DataTables and support rich customization and exports including Print, PDF, and Excel.
 
 I built this because I was tired of watching companies spend huge amounts of money and months of delay on custom reports that become outdated the moment the business changes.
+
+# FeedBack Welcomed
+I would love feedback from anyone regarding their thoughts on all aspects of  AiAnyReports®.
+The hardest part of building this app was NOT the AI--that was actually very easy with my new Zero-Training AI™, but this is what was and still is the hardest.
+
