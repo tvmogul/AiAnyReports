@@ -3,6 +3,8 @@ AI Can Now Write ANY Report You Ask For — On Your Own Data
 
 by **Bill SerGio**, inventor of **Zero-Training AI™**
 
+https://www.youtube.com/watch?v=KYePBG4I6KY
+
 - 100% FREE
 - No SQL
 - No report design required
