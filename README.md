@@ -3,10 +3,11 @@ AI Can Now Write ANY Report You Ask For — On Your Own Data
 
 by **Bill SerGio**, inventor of **Zero-Training AI™**
 
-https://www.youtube.com/watch?v=KYePBG4I6KY
+AiAnyReports® is the Editor that creates the "SavedReports.aidb" SQLite database for the DLL to use:
+[![Download AiAnyReports](https://img.shields.io/badge/Download-AiAnyReports®-blue?style=for-the-badge)](https://aianyreports.com/Packages/iaianyreports.exe)
 
-AiAnyReports® is the Editor that creates the "SavedReports.aidb" SQLite datase for the DLL to use:
-[![Download AiAnyReports® for Windows](https://img.shields.io/badge/Download-AiAnyReports-blue?style=for-the-badge)](https://aianyreports.com/Packages/iaianyreports.exe)
+
+https://www.youtube.com/watch?v=KYePBG4I6KY
 
 - 100% FREE
 - No SQL
