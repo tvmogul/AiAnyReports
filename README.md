@@ -5,6 +5,8 @@ by **Bill SerGio**, inventor of **Zero-Training AI™**
 
 https://www.youtube.com/watch?v=KYePBG4I6KY
 
+[![Download AiAnyReports]](https://aianyreports.com/Packages/iaianyreports.exe)
+
 - 100% FREE
 - No SQL
 - No report design required
