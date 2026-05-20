@@ -5,7 +5,11 @@ by **Bill SerGio**, inventor of **Zero-Training AI™**
 
 https://www.youtube.com/watch?v=KYePBG4I6KY
 
-[![Download AiAnyReports]](https://aianyreports.com/Packages/iaianyreports.exe)
+<p align="center">
+  <a href="https://aianyreports.com/Packages/iaianyreports.exe">
+    <img src="assets/AAR.png" alt="Download AiAnyReports" width="260">
+  </a>
+</p>
 
 - 100% FREE
 - No SQL
